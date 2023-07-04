@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://tanyaKalra-8.io)
-<h1 align="center">Hola <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px" width="50px" alt="hello gif">&nbsp, I'm Taniya Kalra</h1>
+<h1 align="center">Hey <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px" width="50px" alt="hello gif">&nbsp, I'm Taniya Kalra</h1>
 <h3 align="center">Glad to see you here 😍!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
 - 🌱 I’m currently learning Full stack development <br>
